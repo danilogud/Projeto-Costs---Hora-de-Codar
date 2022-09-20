@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Contratar dev",
+      "budget": "12000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "FlowPodcast",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 997,
+      "services": [
+        {
+          "name": "Microfone Shure",
+          "cost": "997",
+          "description": "Comprar microfone para o podcast",
+          "id": "5b6e2f93-e05e-45fe-913f-6da4dc45ab9c"
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
